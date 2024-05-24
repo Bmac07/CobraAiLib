@@ -1,3 +1,4 @@
+let array = [1,2,3,4,5]
 
 // sends array to server
 function send(data,func){
