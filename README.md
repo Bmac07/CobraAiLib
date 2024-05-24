@@ -1,7 +1,7 @@
-# CobraAiLib
+## CobraAiLib
 requires python
 requires node.js
 
-* python libraries:
+# python libraries:
 > flask
 > 
